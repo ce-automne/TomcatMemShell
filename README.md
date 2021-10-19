@@ -59,5 +59,5 @@ java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer http://
 仅供技术研究，请勿用于非法用途
 
 # 题外话
-觉得有帮助的烦请给个star:wave:
+觉得有帮助的话烦请给个star:wave:
 
