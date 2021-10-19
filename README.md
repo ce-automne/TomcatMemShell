@@ -8,9 +8,10 @@
 - **tomcat10.0.11**(2021-09-10)&nbsp;&nbsp;&nbsp;&nbsp;**tomcat10.1.0-M2**(2021-07-02)
 # 说明
 ### 主要内容
-1. 适配对应版本的库和函数，如tomcat10开始javax.servlet更改为jakarta.servlet等
-2. 添加冰蝎内存马的注入代码，方便直接GetShell
-3. 分别总结了.jsp和.java的内存马实现方式，添加了Listener内存马
+1. 实用
+2. 适配对应版本的库和函数，如tomcat10开始javax.servlet更改为jakarta.servlet等
+3. 添加冰蝎内存马的注入代码，方便直接GetShell
+4. 分别总结了.jsp和.java的内存马实现方式，添加了Listener内存马
 
 ### JSP目录
 根据目标环境**上传或写入**对应大版本的.jsp文件并访问，访问后页面返回>@<即说明注入成功，支持Tomat7/8/9/10版本
