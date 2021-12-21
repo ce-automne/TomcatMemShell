@@ -1,5 +1,7 @@
 # TomcatMemShell
-拿来即用的Tomcat7/8/9/10版本Listener/Filter/Servlet内存马，支持注入CMD内存马和冰蝎内存马
+拿来即用的Tomcat7/8/9/10版本Listener/Filter/Servlet内存马，支持注入CMD内存马和冰蝎内存马  
+
+原理及代码分析详见[《Tomcat Servlet-Api内存马总结及代码实现》](https://mp.weixin.qq.com/s/r-JHLX5UoccGNZCfJS3klg)
 
 测试通过的Tomcat版本：  
 - **tomcat7.0.99**(2019-12-17)&nbsp;&nbsp;&nbsp;&nbsp;**tomcat7.0.64**(2015-10-14)&nbsp;&nbsp;&nbsp;&nbsp;**tomcat7.0.34**(2012-12-11)  
